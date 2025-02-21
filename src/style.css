@@ -1,0 +1,33 @@
+.title{
+text-align: center;
+}
+.body{
+text-align: center;
+}
+.footer{
+text-align: center;
+background-color: black;
+color: #ffffff;
+}
+.button-registration{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 40px;
+    padding: 15px 10px;
+}
+.ex-img{
+    width: 450px;
+}
+.genre-button{
+    background-color: deepskyblue;
+    color: #ffffff;
+    border-radius: 40px;
+    padding: 15px 10px;
+}
+
+.more-button{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 40px;
+    padding: 15px 10px;
+}
